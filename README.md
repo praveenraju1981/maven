@@ -9,7 +9,7 @@ Maven is available under the [Apache License, Version 2.0](https://www.apache.or
 
 ## Bootstrapping Basics
 
-If you want to bootstrap Maven, you'll need:
+If you want to bootstrap Maven, you'll need
 
 - Java 1.7+
 - Maven 3.0.5 or later
