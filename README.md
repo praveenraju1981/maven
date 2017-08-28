@@ -20,4 +20,4 @@ Run Maven, specifying a location into which the completed Maven distro should be
 mvn -DdistributionTargetDir="$HOME/app/maven/apache-maven-3.5.x-SNAPSHOT" clean package
 ```
 
-Once the build completes, you should have a new Maven distro ready to roll in that directory!
+Once the build completes, you should have a new Maven distro ready to roll in that directory.
